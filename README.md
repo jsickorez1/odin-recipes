@@ -1,2 +1,2 @@
 # odin-recipes
-Git is still a mystery, but this will demonstrate that I have some passive knowledge of creating and connecting a Git repository to a project and committing files. The recipe file will show some of my current HTML.
+Git is still a mystery, but this will demonstrate that I have some working knowledge of creating and connecting a Git repository to a project and committing files. The recipe file will show some of my current HTML.
